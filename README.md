@@ -341,7 +341,7 @@ Disparity vs Total =
     RETURN SubGroupRate - NationalRate
 ```
 
-### Step 4 — Build the 6 Dashboard Visuals
+### Step 4 — Build the 5 Dashboard Visuals
 
 #### Visual 1 — National Trend (Area Chart)
 ```
